@@ -18,3 +18,6 @@ Trong quá trình học Rails, bạn có thể chia sẻ, trao đổi ở
 [Slack chat](https://vietnam-developers.slack.com/messages/C6HGBT7BK/) và
 tạo [GitHub issue](https://github.com/team-vietnam/rails/issues)
 để tìm sự giúp đỡ.
+
+Source code tham khảo:
+- [vochicong/railstutorial](https://github.com/vochicong/railstutorial)
